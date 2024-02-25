@@ -1,0 +1,15 @@
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/bin/Debug/net7.0/Entities.dll
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/bin/Debug/net7.0/Core.dll
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/bin/Debug/net7.0/Core.pdb
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.dll
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/his/Projects/KodlamaIO/WebAPI/Entities/obj/Debug/net7.0/ref/Entities.dll
